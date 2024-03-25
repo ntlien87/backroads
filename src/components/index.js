@@ -1,0 +1,10 @@
+export { default as Header } from "./Header";
+export { default as Footer } from "./Footer";
+export { default as About } from "./About";
+export { default as Services } from "./Services";
+export { default as Tours } from "./Tours";
+export { default as Tour } from "./Tour";
+export { default as Hero } from "./Hero";
+export { default as Heading } from "./Heading";
+export { default as PageLinks } from "./PageLinks";
+export { default as SocialLinks } from "./SocialLinks";
